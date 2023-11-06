@@ -81,8 +81,4 @@ int play(char user, char computer)
 	{
 		return 1;
 	}
-	else
-	{
-		printf("Invalid choice.\n");
-	}
 }
